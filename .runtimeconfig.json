@@ -1,0 +1,5 @@
+{
+  "mongodb": {
+    "uri": "mongodb+srv://mikepyt87:V0p400micpyt@michael-pytlowany.iemzi.mongodb.net/?retryWrites=true&w=majority"
+  }
+}
